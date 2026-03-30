@@ -60,10 +60,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GridInventory",
-			"Enabled": true
-		},
-		{
 			"Name": "AIAssistant",
 			"Enabled": true
 		},
