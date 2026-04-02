@@ -60,11 +60,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AIAssistant",
+			"Name": "GridInventory",
 			"Enabled": true
 		},
 		{
-			"Name": "MultiUserClient",
+			"Name": "AIAssistant",
 			"Enabled": true
 		}
 	]
